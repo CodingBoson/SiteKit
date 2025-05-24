@@ -20,7 +20,7 @@ SiteKit is a command-line tool designed to simplify the creation, building, and 
 2. Build the project using the .NET CLI:
 3. Install the tool globally:
 ```bash
-git clone https://github.com/RealtinSypher/SiteKit.git
+git clone https://github.com/CodingBoson/SiteKit.git
 cd ./SiteKit/SiteKit
 
 ./install.ps1 # For Windows
