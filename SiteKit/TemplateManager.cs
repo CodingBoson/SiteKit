@@ -5,6 +5,16 @@ namespace SiteKit;
 
 public static class TemplateManager
 {
+    public static string BasePath => Application.GetDataPath("templates");
+
+    public static List<string> Installed
+    {
+        get {
+            return [.. Directory.EnumerateFiles(BasePath)
+                .Select(x => Path.GetRelativePath(BasePath, x))];
+        }
+    }
+
     public static bool TryLoadTemplate(string templateName, [NotNullWhen(true)] out byte[]? templateZip)
     {
         var path = GetPath(templateName);
@@ -31,6 +41,6 @@ public static class TemplateManager
             templateName += ".zip";
         }
 
-        return Application.GetDataPath("templates", templateName);
+        return Path.Combine(BasePath, templateName);
     }
 }

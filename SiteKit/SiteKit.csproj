@@ -14,6 +14,7 @@
   <ItemGroup>
     <PackageReference Include="Cocona" Version="2.2.0" />
     <PackageReference Include="Markdig" Version="0.38.0" />
+	<PackageReference Include="Figgle" Version="0.5.1" />
   </ItemGroup>
 
   <ItemGroup>
