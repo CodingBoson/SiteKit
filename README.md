@@ -106,3 +106,7 @@ This project is licensed under the GPL-3.0 License. See the `LICENSE` file for d
 
 - [Cocona](https://github.com/mayuki/Cocona) for command-line parsing.  
 - [Markdig](https://github.com/xoofx/markdig) for Markdown processing.
+- 
+
+# Note:
+A new successor to SiteKit, named 'WebKit,' is currently in development. This tool aims to provide a faster and more user-friendly solution for static web development. It will soon be available on GitHub under the BosonWare organization.dev. It will be available on GitHub and the BosonWare Technologies organization.
