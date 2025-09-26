@@ -109,4 +109,9 @@ This project is licensed under the GPL-3.0 License. See the `LICENSE` file for d
 - 
 
 # Note:
-A new successor to SiteKit, named 'WebKit,' is currently in development. This tool aims to provide a faster and more user-friendly solution for static web development. It will soon be available on GitHub under the BosonWare organization.dev. It will be available on GitHub and the BosonWare Technologies organization.
+A new successor to SiteKit, named 'WebKit,' is currently in development. 
+This tool aims to provide a faster and more user-friendly solution for static web development.
+It will be available on GitHub and the BosonWare Technologies organization.
+
+## The New WebKit:
+<img width="1184" height="645" alt="image" src="https://github.com/user-attachments/assets/54634975-39e2-400a-aadf-810dc85a8d5b" />
