@@ -115,3 +115,10 @@ It will be available on GitHub and the BosonWare Technologies organization.
 
 ## The New WebKit:
 <img width="1184" height="645" alt="image" src="https://github.com/user-attachments/assets/54634975-39e2-400a-aadf-810dc85a8d5b" />
+
+# **WebKit** is now available: https://github.com/BosonWare-Technologies/WebKit
+
+What does this mean for **SiteKit**?
+
+The transition to **WebKit** marks the end of support for **SiteKit**, as it was an experimental project. **WebKit** has emerged as a more powerful tool, backed by the BosonWare Foundation, ensuring long-term maintenance and support.
+
